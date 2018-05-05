@@ -1,0 +1,116 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Demo\
+* Demo\.idea\
+* Demo\.idea\gradle.xml
+* Demo\.idea\misc.xml
+* Demo\.idea\modules.xml
+* Demo\.idea\runConfigurations.xml
+* Demo\.idea\workspace.xml
+* Demo\Demo.iml
+* Demo\app\
+* Demo\app\build.gradle
+* Demo\app\libs\
+* Demo\app\libs\swipelayout-v1.1.8.jar
+* Demo\app\src\
+* Demo\app\src\main\
+* Demo\app\src\main\AndroidManifest.xml
+* Demo\app\src\main\assets\
+* Demo\app\src\main\assets\.idea\
+* Demo\app\src\main\assets\.idea\misc.xml
+* Demo\app\src\main\assets\.idea\modules.xml
+* Demo\app\src\main\assets\.idea\workspace.xml
+* Demo\app\src\main\assets\assets.iml
+* Demo\app\src\main\java\
+* Demo\app\src\main\java\com\
+* Demo\app\src\main\java\com\example\
+* Demo\app\src\main\java\com\example\test\
+* Demo\app\src\main\java\com\example\test\MainActivity.java
+* Demo\app\src\main\res\
+* Demo\app\src\main\res\drawable-hdpi\
+* Demo\app\src\main\res\drawable-hdpi\ic_launcher.png
+* Demo\app\src\main\res\drawable-mdpi\
+* Demo\app\src\main\res\drawable-mdpi\ic_launcher.png
+* Demo\app\src\main\res\drawable-xhdpi\
+* Demo\app\src\main\res\drawable-xhdpi\ic_launcher.png
+* Demo\app\src\main\res\drawable-xxhdpi\
+* Demo\app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* Demo\app\src\main\res\drawable\
+* Demo\app\src\main\res\drawable\bg_edittext_focused.xml
+* Demo\app\src\main\res\drawable\bg_edittext_normal.xml
+* Demo\app\src\main\res\drawable\bg_edittext_selector.xml
+* Demo\app\src\main\res\drawable\btn_studytool_translate.xml
+* Demo\app\src\main\res\drawable\btn_studytool_translate_pressed.xml
+* Demo\app\src\main\res\drawable\btn_studytool_translate_selector.xml
+* Demo\app\src\main\res\layout\
+* Demo\app\src\main\res\layout\activity_main.xml
+* Demo\app\src\main\res\menu\
+* Demo\app\src\main\res\menu\main.xml
+* Demo\app\src\main\res\values-v11\
+* Demo\app\src\main\res\values-v11\styles.xml
+* Demo\app\src\main\res\values-w820dp\
+* Demo\app\src\main\res\values-w820dp\dimens.xml
+* Demo\app\src\main\res\values-w820dp\values-v14\
+* Demo\app\src\main\res\values-w820dp\values-v14\styles.xml
+* Demo\app\src\main\res\values\
+* Demo\app\src\main\res\values\color.xml
+* Demo\app\src\main\res\values\dimens.xml
+* Demo\app\src\main\res\values\strings.xml
+* Demo\app\src\main\res\values\styles.xml
+* Demo\build.gradle
+* Demo\gradle\
+* Demo\gradle\wrapper\
+* Demo\gradle\wrapper\gradle-wrapper.jar
+* Demo\gradle\wrapper\gradle-wrapper.properties
+* Demo\gradlew
+* Demo\gradlew.bat
+* Demo\import-summary.txt
+* Demo\local.properties
+* Demo\settings.gradle
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+gson-2.3.1.jar => com.google.code.gson:gson:2.3.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\swipelayout-v1.1.8.jar => app\libs\swipelayout-v1.1.8.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

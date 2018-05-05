@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_studytool_translate_pressed.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\btn_studytool_translate_pressed.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_studytool_translate_selector.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\btn_studytool_translate_selector.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edittext_focused.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wangwang.png.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\wangwang.png"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_studytool_translate.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\btn_studytool_translate.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edittext_selector.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\bg_edittext_selector.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edittext_normal.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\youdao\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\youdao\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

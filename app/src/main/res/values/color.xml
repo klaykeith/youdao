@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_space_studytools_red">#E64514</color>
+    <color name="color_space_studytools_green">#99CC00</color>
+    <color name="color_space_studytools_blue">#1BCE8D</color>
+    <color name="blue_normal">#4AC3FF</color>
+    <color name="blue_pressed">#ff0099cc</color>
+
+</resources>
